@@ -7,3 +7,9 @@ In both Python and Java !!
 
 
 Just a fun and easy game I made in my leisure time :-)   Try it out and test your luck !
+
+
+Java code using OOPs output
+
+
+![image](https://github.com/Ananya46Nigam/A-Number-Guessing-Game/assets/80421780/009d8477-432d-4806-9217-650d0f809a33)
